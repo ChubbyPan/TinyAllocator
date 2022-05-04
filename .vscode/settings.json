@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "memlib.h": "c",
-        "mm.h": "c"
+        "mm.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c"
     }
 }

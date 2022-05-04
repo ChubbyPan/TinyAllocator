@@ -19,7 +19,7 @@ mdriver.c
 	The malloc driver that tests your mm.c file
 
 short{1,2}-bal.rep
-	Two tiny tracefiles to help you get started. 
+	Two tiny files to help you get started. 
 
 Makefile	
 	Builds the driver
